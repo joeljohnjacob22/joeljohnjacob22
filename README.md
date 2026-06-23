@@ -16,7 +16,7 @@
 
 ---
 
-## 🛡️ Cybersecurity Journey (New Parallel Path)
+## 🛡️ Cybersecurity Journey 
 
 - Currently starting a dedicated learning path in Cybersecurity  
 - Interested in Ethical Hacking, Network Security, and System Protection  
