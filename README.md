@@ -92,14 +92,14 @@ Worked on object detection and computer vision tasks using YOLO during AI intern
 
 - AI/ML Internship – IBM SkillsBuild Program  
 - AI Internship – YOLO & Computer Vision  
-- Internship – KELTRON (Kerala State Electronics Development Corporation)  
+- Internship – Web Development
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn:  [oai_citation:0‡linkedin.com](https://www.linkedin.com/in/joel-john-jacob-6b8238279?utm_source=chatgpt.com)  
-- 💻 GitHub:  [oai_citation:1‡github.com](https://github.com/joeljohnjacob22?utm_source=chatgpt.com)  
+- 💼 LinkedIn:  [oai_citation:0‡linkedin.com](https://www.linkedin.com/in/joel-john-jacob-6b8238279)  
+- 💻 GitHub:  [oai_citation:1‡github.com](https://github.com/joeljohnjacob22)  
 
 ---
 
